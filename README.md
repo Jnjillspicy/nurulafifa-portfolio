@@ -1,4 +1,4 @@
-# Nurul Afifa — Creative Portfolio
+# Nurul Afifa - Creative Portfolio
 
 A responsive single-page portfolio website built from the supplied Canva portfolio.
 
